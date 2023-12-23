@@ -1,0 +1,5 @@
+- [x] Explain how this certificate program will help prepare learners for a career in security
+- [x] Define the field of security
+- [x] Explore the job responsibilities of an entry-level security analyst
+- [x] Recognize core skills and knowledge needed to become a security analyst
+- [x] Describe how security analysts protect networks and information
