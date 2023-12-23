@@ -15,6 +15,9 @@ Security controls are safeguards designed to reduce specific security risks. The
 ## Security posture
 Security posture is an organization's ability to manage it's defense of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
 
+## Threat
+Any person, group or entity that can negatively impact assets.
+
 ## Threat actor
 A threat actor, or malicious attacker, is any person, group or entity which presents a security risk. This risk can relate to computers, applications, networks, and data.
 
@@ -30,9 +33,14 @@ Cloud security is the process of ensuring that assets stored in the cloud are pr
 ## Programming
 Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks. These tasks can include:
 
-* Automation of repititive tasks (e.g., searching a list of malicious domains)
-* Reviewing web traffic
-* Alerting suspicious activity
+   * Automation of repititive tasks (e.g., searching a list of malicious domains)
+   * Reviewing web traffic
+   * Alerting suspicious activity
+
+## Personally identifiable information (PII)
+PII is any information which can be used to infer an individual's identity.
+
+## Sensitive personally identifiable information (SPII)
+SPII is a specific type of PII that falls under stricter handling guidelines.
 
 [National Institute of Standards and Technology glossary](https://csrc.nist.gov/glossary) contains key technical terms and concepts commonly tossed around in the cybersecurity space.
-
