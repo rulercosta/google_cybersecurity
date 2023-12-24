@@ -1,0 +1,4 @@
+- [x] Identify the most common types of attacks, past and present
+- [x] Identify how security attacks impact business operations
+- [x] Recognize how past and present attacks on business operations have led to the development of the security field
+- [x] Identify the CISSP eight security domains
